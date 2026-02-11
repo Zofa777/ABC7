@@ -44,3 +44,9 @@ git branch -a
 ```bash
 get checkout main
 ```
+
+8. Indext new and modified files (git add . mofifies all files inside)
+
+```bash
+get add .
+```
